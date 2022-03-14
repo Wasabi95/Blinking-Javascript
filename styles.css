@@ -1,0 +1,12 @@
+h1 {
+  font-size: 90px;
+  color: blueviolet;
+}
+body {
+  min-height: calc(100vh - 3rem);
+  display: grid;
+  place-items: center;
+}
+.container {
+  text-align: center;
+}
